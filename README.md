@@ -4,7 +4,7 @@ A simple SMA (Simple Moving Average) crossover strategy backtester for S&P 500 s
 
 ## Demo
 
-https://github.com/YOUR_USERNAME/sma-backtester/assets/YOUR_ASSET_ID/your-video-file.mp4
+<video src="https://github.com/elinstallation/sma-backtester/raw/main/sma%20backtest.mp4" controls width="100%"></video>
 
 ## What it does
 
